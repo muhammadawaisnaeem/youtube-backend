@@ -1,0 +1,19 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "Wrote a youtube backend using Node.js, Express.js and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Backend",
+    "Youtube",
+    "MERN"
+  ],
+  "author": "Muhammad Awais Naeem",
+  "license": "ISC"
+}
